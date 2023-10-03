@@ -1,0 +1,24 @@
+.text-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+  }
+  
+  .text-primary {
+    color: #007bff;
+  }
+  
+  .image-container {
+    text-align: center; 
+    margin-top: 20px; 
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 250px;
+    height: 250px;
+  }
+  
