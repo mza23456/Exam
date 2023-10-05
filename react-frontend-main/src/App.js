@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <>
-        <nav className="navbar navbar-expand navbar-info bg-primary">
+        <nav className="navbar navbar-expand navbar-info bg-success">
           <Link to="/Student" className="navbar-brand">
             North Bangkok University
           </Link>
